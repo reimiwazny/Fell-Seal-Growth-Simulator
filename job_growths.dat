@@ -1,0 +1,178 @@
+{"Mercenary": 
+{"b_atk": 44, "b_def": 41, "b_mnd": 31, "b_res": 35, "b_hp": 88, "b_mp": 11, "b_spd": 96.67, 
+"g_atk": 4.5, "g_def": 4, "g_mnd": 3, "g_res": 3.5, "g_hp": 8, "g_mp": 1, "g_spd": 0.83, 
+"bonus_eva": 0, "bonus_crit": 2, 
+"mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 0, "m_res": 0, "m_hp": 6, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}},
+
+ "Knight": 
+ {"b_atk": 40, "b_def": 47, "b_mnd": 36, "b_res": 45, "b_hp": 86, "b_mp": 14, "b_spd": 93.33, 
+ "g_atk": 4, "g_def": 5, "g_mnd": 3, "g_res": 4, "g_hp": 7.5, "g_mp": 1.5, "g_spd": 0.75, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 0, "m_res": 3, "m_hp": 6, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}},
+
+ "Templar": {"b_atk": 44, "b_def": 39, "b_mnd": 35, "b_res": 41, "b_hp": 80, "b_mp": 18, "b_spd": 93.33, 
+ "g_atk": 4.5, "g_def": 3.5, "g_mnd": 3.5, "g_res": 4.5, "g_hp": 7, "g_mp": 2, "g_spd": 0.88, 
+ "bonus_eva": 2, "bonus_crit": 2, 
+ "mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 0, "m_res": 5, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 5, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Duelist": {"b_atk": 46, "b_def": 38, "b_mnd": 33, "b_res": 32, "b_hp": 80, "b_mp": 10, "b_spd": 100, 
+ "g_atk": 5, "g_def": 3.5, "g_mnd": 3, "g_res": 3, "g_hp": 7, "g_mp": 1, "g_spd": 1.05, 
+ "bonus_eva": 3, "bonus_crit": 3, 
+ "mastery": {"m_atk": 5, "m_def": 5, "m_mnd": 0, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 5, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}},
+
+ "Reaver": {"b_atk": 45, "b_def": 38.5, "b_mnd": 29, "b_res": 34, "b_hp": 90, "b_mp": 11, "b_spd": 98.33, 
+ "g_atk": 5.5, "g_def": 2.75, "g_mnd": 2.5, "g_res": 2.75, "g_hp": 8, "g_mp": 1, "g_spd": 0.83, 
+ "bonus_eva": 0, "bonus_crit": 5, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 6, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 0}}, 
+
+ "Assassin": {"b_atk": 44, "b_def": 35, "b_mnd": 35, "b_res": 37, "b_hp": 78, "b_mp": 16, "b_spd": 106.67, 
+ "g_atk": 4.25, "g_def": 3, "g_mnd": 3.5, "g_res": 3.25, "g_hp": 6, "g_mp": 2, "g_spd": 1.47, 
+ "bonus_eva": 5, "bonus_crit": 2, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 6, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 0}}, 
+
+ "Ranger": {"b_atk": 42, "b_def": 34.5, "b_mnd": 34, "b_res": 36, "b_hp": 78, "b_mp": 16, "b_spd": 103.33, 
+ "g_atk": 4, "g_def": 3.25, "g_mnd": 3.5, "g_res": 3.75, "g_hp": 6.5, "g_mp": 2, "g_spd": 1.25, 
+ "bonus_eva": 4, "bonus_crit": 2, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 1}}, 
+
+ "Scoundrel": {"b_atk": 39, "b_def": 36.5, "b_mnd": 39, "b_res": 34, "b_hp": 82, "b_mp": 18, "b_spd": 106.67, 
+ "g_atk": 3.5, "g_def": 3.5, "g_mnd": 3.5, "g_res": 3.5, "g_hp": 6.5, "g_mp": 2.5, "g_spd": 1.38, 
+ "bonus_eva": 5, "bonus_crit": 2, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 3, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 1}}, 
+
+ "Gunner": {"b_atk": 41, "b_def": 37.5, "b_mnd": 37.5, "b_res": 36, "b_hp": 78, "b_mp": 12, "b_spd": 100, 
+ "g_atk": 4.5, "g_def": 4.25, "g_mnd": 3, "g_res": 3.5, "g_hp": 6.5, "g_mp": 1, "g_spd": 0.93, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 5, "m_def": 5, "m_mnd": 0, "m_res": 2, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Peddler": {"b_atk": 39, "b_def": 39.5, "b_mnd": 37, "b_res": 42.5, "b_hp": 80, "b_mp": 17, "b_spd": 103.33, 
+ "g_atk": 3.75, "g_def": 4, "g_mnd": 3.5, "g_res": 4, "g_hp": 7, "g_mp": 3, "g_spd": 1.13, 
+ "bonus_eva": 2, "bonus_crit": 1, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 5, "m_mp": 5, "m_spd": 3, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Mender": {"b_atk": 33, "b_def": 36, "b_mnd": 42, "b_res": 41, "b_hp": 80, "b_mp": 24, "b_spd": 96.67, 
+ "g_atk": 3.25, "g_def": 3.5, "g_mnd": 4.5, "g_res": 4, "g_hp": 6.5, "g_mp": 4, "g_spd": 1, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 5, "m_res": 2, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Alchemystic": {"b_atk": 36, "b_def": 34.5, "b_mnd": 42, "b_res": 47, "b_hp": 78, "b_mp": 22, "b_spd": 105, 
+ "g_atk": 3.5, "g_def": 3.25, "g_mnd": 4.25, "g_res": 4.5, "g_hp": 6, "g_mp": 3.5, "g_spd": 1.33, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 0, "m_res": 5, "m_hp": 0, "m_mp": 5, "m_spd": 3, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Sorcerer": {"b_atk": 30, "b_def": 33, "b_mnd": 45, "b_res": 42.5, "b_hp": 74, "b_mp": 32, "b_spd": 91.67, 
+ "g_atk": 3.25, "g_def": 3.5, "g_mnd": 5.5, "g_res": 4.25, "g_hp": 5, "g_mp": 5.5, "g_spd": 0.75, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 0, "m_res": 3, "m_hp": 0, "m_mp": 10, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Plague Doctor": {"b_atk": 39, "b_def": 41, "b_mnd": 43, "b_res": 40, "b_hp": 78, "b_mp": 21, "b_spd": 93.33, 
+ "g_atk": 3.75, "g_def": 4, "g_mnd": 4.25, "g_res": 4, "g_hp": 7.5, "g_mp": 3, "g_spd": 0.9, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 5, "m_res": 0, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Wizard": {"b_atk": 31, "b_def": 34, "b_mnd": 44, "b_res": 47.5, "b_hp": 76, "b_mp": 26, "b_spd": 93.33, 
+ "g_atk": 3, "g_def": 3, "g_mnd": 5, "g_res": 5, "g_hp": 5.5, "g_mp": 4.5, "g_spd": 0.78, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 5, "m_res": 5, "m_hp": 0, "m_mp": 5, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Druid": {"b_atk": 40, "b_def": 36, "b_mnd": 43, "b_res": 45, "b_hp": 78, "b_mp": 24, "b_spd": 98.33, 
+ "g_atk": 4, "g_def": 3.5, "g_mnd": 4.5, "g_res": 4, "g_hp": 6, "g_mp": 3, "g_spd": 1.08, 
+ "bonus_eva": 2, "bonus_crit": 2, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 5, "m_res": 5, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 5, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Fellblade": {"b_atk": 42.5, "b_def": 37.5, "b_mnd": 42, "b_res": 37.5, "b_hp": 82, "b_mp": 21, "b_spd": 103.33, 
+ "g_atk": 4.75, "g_def": 3.5, "g_mnd": 4.5, "g_res": 3.5, "g_hp": 7, "g_mp": 2.5, "g_spd": 0.92, 
+ "bonus_eva": 0, "bonus_crit": 5, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 5, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 0}}, 
+
+ "Warmage": {"b_atk": 44, "b_def": 36, "b_mnd": 45, "b_res": 39, "b_hp": 78, "b_mp": 26, "b_spd": 96.67, 
+ "g_atk": 4.5, "g_def": 3.5, "g_mnd": 4.75, "g_res": 3.25, "g_hp": 6, "g_mp": 3, "g_spd": 1.13, 
+ "bonus_eva": 2, "bonus_crit": 2, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 5, "m_res": 0, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Gambler": {"b_atk": 43.5, "b_def": 37, "b_mnd": 38.5, "b_res": 35, "b_hp": 79, "b_mp": 21, "b_spd": 103.33, 
+ "g_atk": 4.5, "g_def": 3.5, "g_mnd": 3.5, "g_res": 3, "g_hp": 6.5, "g_mp": 1.75, "g_spd": 1.2, 
+ "bonus_eva": 3, "bonus_crit": 5, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 2}}, 
+
+ "Gadgeteer": {"b_atk": 41, "b_def": 37.5, "b_mnd": 41, "b_res": 39, "b_hp": 81, "b_mp": 23, "b_spd": 98.33, 
+ "g_atk": 4, "g_def": 4, "g_mnd": 4, "g_res": 4, "g_hp": 7, "g_mp": 2.5, "g_spd": 1, 
+ "bonus_eva": 2, "bonus_crit": 2, 
+ "mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 0, "m_res": 5, "m_hp": 2, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Anatomist": {"b_atk": 38, "b_def": 37.5, "b_mnd": 45.5, "b_res": 43, "b_hp": 77, "b_mp": 27, "b_spd": 98.33, 
+ "g_atk": 3.75, "g_def": 3.5, "g_mnd": 5, "g_res": 4, "g_hp": 5.5, "g_mp": 4.5, "g_spd": 1, 
+ "bonus_eva": 0, "bonus_crit": 4, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 15, "m_res": 5, "m_hp": 5, "m_mp": 5, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 5, "m_crit": 2, "m_eva": 0}}, 
+
+ "Marked": {"b_atk": 44, "b_def": 39, "b_mnd": 42, "b_res": 36, "b_hp": 83, "b_mp": 23, "b_spd": 101.67, 
+ "g_atk": 5, "g_def": 3.25, "g_mnd": 4.5, "g_res": 3.25, "g_hp": 7, "g_mp": 4, "g_spd": 1, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 10, "m_def": 0, "m_mnd": 10, "m_res": 0, "m_hp": 10, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 5, "m_dark": 5, "m_crit": 0, "m_eva": 0}}, 
+
+ "Demon Knight": {"b_atk": 45.5, "b_def": 39, "b_mnd": 35, "b_res": 35, "b_hp": 84, "b_mp": 15, "b_spd": 100, 
+ "g_atk": 6, "g_def": 3.25, "g_mnd": 3.5, "g_res": 2.5, "g_hp": 8, "g_mp": 1, "g_spd": 0.67, 
+ "bonus_eva": 0, "bonus_crit": 3, 
+ "mastery": {"m_atk": 15, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 10, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 10, "m_crit": 2, "m_eva": 0}}, 
+
+ "Lich": {"b_atk": 38, "b_def": 34, "b_mnd": 46, "b_res": 36, "b_hp": 80, "b_mp": 18, "b_spd": 95, 
+ "g_atk": 3.75, "g_def": 2.75, "g_mnd": 6.5, "g_res": 2.75, "g_hp": 7, "g_mp": 3.5, "g_spd": 0.67, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 5, "m_res": 0, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 5, "m_crit": 0, "m_eva": 0}}, 
+
+ "Vessel": {"b_atk": 42, "b_def": 36.5, "b_mnd": 48.5, "b_res": 42.5, "b_hp": 72, "b_mp": 36, "b_spd": 90, 
+ "g_atk": 4.25, "g_def": 4, "g_mnd": 6.25, "g_res": 4, "g_hp": 4, "g_mp": 7, "g_spd": 0.83, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 5, "m_res": 0, "m_hp": 0, "m_mp": 5, "m_spd": 0, "m_elem": 5, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Princess": {"b_atk": 37.5, "b_def": 35, "b_mnd": 47, "b_res": 48, "b_hp": 76, "b_mp": 32, "b_spd": 100, 
+ "g_atk": 3, "g_def": 2.75, "g_mnd": 5.75, "g_res": 4.75, "g_hp": 5, "g_mp": 6, "g_spd": 1.08, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 5, "m_def": 5, "m_mnd": 5, "m_res": 5, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 5, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Lord": {"b_atk": 46, "b_def": 41, "b_mnd": 38, "b_res": 36, "b_hp": 82, "b_mp": 21, "b_spd": 105, 
+ "g_atk": 4.5, "g_def": 4.25, "g_mnd": 4.25, "g_res": 3.5, "g_hp": 7, "g_mp": 2, "g_spd": 1.08, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 5, "m_def": 5, "m_mnd": 5, "m_res": 5, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 5, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Werewolf": {"b_atk": 46.5, "b_def": 40, "b_mnd": 30, "b_res": 35, "b_hp": 78, "b_mp": 15, "b_spd": 103.33, 
+ "g_atk": 5.5, "g_def": 2.75, "g_mnd": 3, "g_res": 3.5, "g_hp": 6.5, "g_mp": 1.5, "g_spd": 1.1, 
+ "bonus_eva": 5, "bonus_crit": 0, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 0}}, 
+
+ "Vampire": {"b_atk": 41, "b_def": 41, "b_mnd": 41, "b_res": 41, "b_hp": 72, "b_mp": 23, "b_spd": 106.67, 
+ "g_atk": 4.25, "g_def": 4, "g_mnd": 4.25, "g_res": 4, "g_hp": 5.5, "g_mp": 3.5, "g_spd": 1.33, 
+ "bonus_eva": 4, "bonus_crit": 4, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 3, "m_elem": 0, "m_holy": 0, "m_dark": 5, "m_crit": 0, "m_eva": 0}}, 
+
+ "Samurai": {"b_atk": 45, "b_def": 37, "b_mnd": 35, "b_res": 37, "b_hp": 87, "b_mp": 19, "b_spd": 105, 
+ "g_atk": 4.75, "g_def": 3, "g_mnd": 3.5, "g_res": 3.12, "g_hp": 7.5, "g_mp": 2, "g_spd": 1.03, 
+ "bonus_eva": 5, "bonus_crit": 3, 
+ "mastery": {"m_atk": 5, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 2, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 0}}, 
+
+ "Wrangler": {"b_atk": 43, "b_def": 42, "b_mnd": 39.5, "b_res": 38.5, "b_hp": 80, "b_mp": 12, "b_spd": 106.67, 
+ "g_atk": 3.75, "g_def": 3.75, "g_mnd": 3.5, "g_res": 3.75, "g_hp": 7.5, "g_mp": 2, "g_spd": 1.17, 
+ "bonus_eva": 0, "bonus_crit": 2, 
+ "mastery": {"m_atk": 0, "m_def": 0, "m_mnd": 2, "m_res": 0, "m_hp": 5, "m_mp": 5, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Beastmaster": {"b_atk": 42, "b_def": 43, "b_mnd": 41.5, "b_res": 42.5, "b_hp": 88, "b_mp": 16, "b_spd": 101.67, 
+ "g_atk": 3.75, "g_def": 4, "g_mnd": 3.75, "g_res": 4, "g_hp": 8, "g_mp": 16, "g_spd": 0.9, 
+ "bonus_eva": 2, "bonus_crit": 2, 
+ "mastery": {"m_atk": 0, "m_def": 5, "m_mnd": 3, "m_res": 5, "m_hp": 0, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "The Exiled": {"b_atk": 42.5, "b_def": 40, "b_mnd": 42.5, "b_res": 36, "b_hp": 80, "b_mp": 25, "b_spd": 103.33, 
+ "g_atk": 4.75, "g_def": 3.25, "g_mnd": 4.5, "g_res": 3.25, "g_hp": 6.5, "g_mp": 6, "g_spd": 1.13, 
+ "bonus_eva": 0, "bonus_crit": 0, 
+ "mastery": {"m_atk": 10, "m_def": 5, "m_mnd": 10, "m_res": 5, "m_hp": 5, "m_mp": 0, "m_spd": 0, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 0, "m_eva": 0}}, 
+
+ "Spymaster": {"b_atk": 42, "b_def": 39, "b_mnd": 42, "b_res": 35.5, "b_hp": 80, "b_mp": 18, "b_spd": 105, 
+ "g_atk": 4.25, "g_def": 3.5, "g_mnd": 4.25, "g_res": 3.5, "g_hp": 6.5, "g_mp": 3, "g_spd": 1.25, 
+ "bonus_eva": 3, "bonus_crit": 3, 
+ "mastery": {"m_atk": 5, "m_def": 5, "m_mnd": 5, "m_res": 5, "m_hp": 5, "m_mp": 5, "m_spd": 3, "m_elem": 5, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 1}}, 
+
+ "Bounty Hunter": {"b_atk": 42, "b_def": 37.5, "b_mnd": 39, "b_res": 36, "b_hp": 81, "b_mp": 15, "b_spd": 105, 
+ "g_atk": 4.25, "g_def": 3.5, "g_mnd": 3.75, "g_res": 3.25, "g_hp": 6, "g_mp": 2, "g_spd": 1.37, 
+ "bonus_eva": 4, "bonus_crit": 1, 
+ "mastery": {"m_atk": 10, "m_def": 0, "m_mnd": 0, "m_res": 0, "m_hp": 0, "m_mp": 0, "m_spd": 6, "m_elem": 0, "m_holy": 0, "m_dark": 0, "m_crit": 2, "m_eva": 2}}
+
+ }
