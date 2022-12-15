@@ -342,7 +342,7 @@ def save_data(stats, details):
 	the OS standard file saving procedure.'''
 
 	output = 'Summary of levels\n\n'+details+'\n\n'+stats 
-	if file_name := sg.popup_get_file('',no_window=True,save_as=True,file_types=(("Text Files", ".txt"))):
+	if file_name := sg.popup_get_file('',no_window=True,save_as=True,file_types=((('Text Files', '.txt'),))):
 		try:
 			with open(file_name, 'w', encoding='utf-8') as file:
 				file.write(output)
